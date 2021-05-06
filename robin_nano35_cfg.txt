@@ -154,7 +154,7 @@
 		
 
 >DEFAULT_X_MAX_ACCELERATION	500	#Default Axis-X Max Acceleration (change/s) change = mm/s
->DEFAULT_Y_MAX_ACCELERATION	500	#Default Axis-Y Max Acceleration (change/s) change = mm/s
+>DEFAULT_Y_MAX_ACCELERATION	400	#Default Axis-Y Max Acceleration (change/s) change = mm/s
 >DEFAULT_Z_MAX_ACCELERATION	100	#Default Axis-Z Max Acceleration (change/s) change = mm/s
 >DEFAULT_E0_MAX_ACCELERATION	1000	#Default Axis-E Max Acceleration (change/s) change = mm/s
 >DEFAULT_E1_MAX_ACCELERATION	1000	#Default Axis-E Max Acceleration (change/s) change = mm/s
@@ -168,7 +168,7 @@
 >DEFAULT_MINTRAVELFEEDRATE	0.0	#		
 
 >DEFAULT_XJERK 			10.0	#Default Axis-X Jerk (mm/s)	
->DEFAULT_YJERK 			10.0	#Default Axis-Y Jerk (mm/s)	
+>DEFAULT_YJERK 			8.0	#Default Axis-Y Jerk (mm/s)	
 >DEFAULT_ZJERK 			0.4	#Default Axis-Z Jerk (mm/s)	
 >DEFAULT_EJERK 			5.0	#Default Axis-E Jerk (mm/s)	
 
